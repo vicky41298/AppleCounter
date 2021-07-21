@@ -1,3 +1,3 @@
 # AppleCounter
-A simple react app to increment and decremnet value. 
+A simple react app to increment and decrement value. 
 
